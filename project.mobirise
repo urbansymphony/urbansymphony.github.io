@@ -54,7 +54,7 @@
     "versionPublish": "5.9.6",
     "imageResize": true,
     "chatbutton": {},
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-wysoka-jakosc-128x128.png",
     "mbrsiteDomain": "oimwg6ddab",
     "usedWebp": false,
     "cssOptimize": false,
